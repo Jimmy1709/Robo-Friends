@@ -1,0 +1,11 @@
+@font-face {
+font-family: 'HighlandGothicLightFLF Regular';
+font-style: normal;
+font-weight: normal;
+src: local('HighlandGothicLightFLF Regular'), url('HighlandGothicFLF.woff') format('woff');
+}
+
+h1 {
+
+	font-family: "HighlandGothicLightFLF Regular";
+}
